@@ -1,4 +1,4 @@
-This is the source code underlying the post [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/). I explained it in [this Twitter thread](https://twitter.com/jonaslindeloev/status/1110907133833502721).
+TESTGithub for Meichtry [stats](https://mcdr65.github.io/tests-as-linear/). 
 
 This is the main content:
 
